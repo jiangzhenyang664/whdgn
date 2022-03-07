@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.list table {
+    width: 100%;
+    text-align:center;
+    border: 1px solid orange;
+    border-collapse: collapse;
+    white-space:nowrap;     
+}
+.list table th {
+    border: 1px solid orange;
+    height: 40px;
+    line-height: 40px;
+}
+.list table td {
+    border: 1px solid orange;
+    height: 40px; 
+    line-height: 40px;     
+}
+
+#dataList tr td:nth-child(3) {
+    position: absolute;
+    width: 750px;
+    text-align:left;
+    overflow: hidden;/*超出隐藏*/
+    text-overflow: ellipsis;/*隐藏的字符用省略号表示*/}
+#reagents {
+    width: 750px;
+}
+.form {
+    position: absolute;
+    left: 50%;
+    top: 110px;
+    margin-left: -110px;
+    display: none;
+}
+

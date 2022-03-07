@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tx",
+				"textRed"
+			],
+			[
+				"i",
+				"imgwidth400"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"B",
+				"border\tAttr"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"img",
+				"imgwidth"
+			],
+			[
+				"te",
+				"textRed"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fin",
+				"finalColor"
+			],
+			[
+				"get",
+				"getstyle"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"is",
+				"isActive2"
+			],
+			[
+				"btn",
+				"btnClick2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"aHref"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrator/Desktop/test3.js",
+			"settings":
+			{
+				"buffer_size": 26765,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/whdgn_reagent",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public/css",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/whdgn_reagent/xxx.js",
+		"/C/Users/Administrator/Desktop/js笔记/test3.js",
+		"/C/Users/Administrator/Desktop/js笔记/test3.html",
+		"/C/Users/Administrator/Desktop/js笔记/test3anima.js",
+		"/C/Users/Administrator/Desktop/js笔记/js动画.js",
+		"/C/Users/Administrator/Desktop/js笔记/Math.js",
+		"/C/Users/Administrator/Desktop/js笔记/node.js",
+		"/D/project/qixin/nodejs/public/css/index.css",
+		"/D/project/qixin/nodejs/service.js",
+		"/D/project/qixin/nodejs/public/index.html",
+		"/D/project/qixin/public/index.html",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/service.js",
+		"/D/project/qixin/nodejs/mysql.js",
+		"/D/project/qixin/nodejs/public/index.js",
+		"/D/project/qixin/nodejs/index.js",
+		"/D/project/qixin/nodejs/router.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/router.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/mysql.js",
+		"/D/project/qixin/nodejs/db.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/db.js",
+		"/D/project/qixin/public/index.js",
+		"/C/Users/Administrator/Desktop/runtime~company_general.15133e79.js",
+		"/C/Users/Administrator/Desktop/vendor.6d9d9c80.dll.js",
+		"/C/Users/Administrator/Desktop/commo.js",
+		"/C/Users/Administrator/Desktop/Alphalio/index.js",
+		"/C/Users/Administrator/Desktop/Alphalio/index.html",
+		"/C/Users/Administrator/Desktop/1111111111111111111111111111111111.js",
+		"/C/Users/Administrator/Desktop/company_risk.544bbca7.js",
+		"/C/Users/Administrator/Desktop/1111111111111111111111111111111111",
+		"/C/Users/Administrator/Desktop/1111111111111111111111.js",
+		"/C/Users/Administrator/Desktop/1111111111111111111111",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public/reagent.html",
+		"/C/Users/Administrator/Desktop/Alphalio/index.css",
+		"/C/Users/Administrator/Desktop/Alphalio/reset.css",
+		"/C/Users/Administrator/Desktop/Alphalio/index.css.css",
+		"/C/Users/Administrator/Desktop/jquery.js",
+		"/C/Users/Administrator/Desktop/js笔记/正则.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/index.js",
+		"/C/Users/Administrator/Desktop/02.js",
+		"/C/Users/Administrator/Desktop/test3.js",
+		"/F/新建文件夹 (2)/jzy/caode/test01.html",
+		"/C/Users/Administrator/Desktop/Cyberpunk.2077.Preload.GOGRip-InsaneRamzes/Cyberpunk 2077/unins000.exe",
+		"/C/Users/Administrator/Desktop/test3.html",
+		"/C/Users/Administrator/Desktop/xxx.js",
+		"/C/Users/Administrator/Desktop/生化笔记/css/reset.css",
+		"/C/Users/Administrator/Desktop/jq226871.html",
+		"/C/Users/Administrator/Desktop/生化笔记/第一章(生物分子导论).html",
+		"/C/Users/Administrator/Desktop/生化笔记/第三章(蛋白质的通性、纯化和表征).html",
+		"/C/Users/Administrator/Desktop/生化笔记/第二章(蛋白质的构件——氨基酸).html",
+		"/C/Users/Administrator/Desktop/Vue/02/11计算属性基本使用.html",
+		"/C/Users/Administrator/Desktop/Vue/02/13计算属性的setter和getter.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/snippet/my_vue.sublime-snippet",
+		"/C/Users/Administrator/Desktop/Vue/02/12计算属性复杂使用.html",
+		"/C/Users/Administrator/Desktop/Vue/02/08v-bind绑定class属性.html",
+		"/C/Users/Administrator/Desktop/Vue/02/09v-bind和v-for结合使用.html",
+		"/C/Users/Administrator/Desktop/Vue/02/05v-pre.html",
+		"/C/Users/Administrator/Desktop/Vue/02/06v-cloak.html",
+		"/C/Users/Administrator/Desktop/Vue/02/04v-text.html",
+		"/C/Users/Administrator/Desktop/Vue/02/10v-bind绑定style属性.html",
+		"/C/Users/Administrator/Desktop/Vue/02/07v-bind.html",
+		"/C/Users/Administrator/Desktop/Vue/02/03v-html.html",
+		"/C/Users/Administrator/Desktop/Vue/02/02.html",
+		"/C/Users/Administrator/Desktop/Vue/02/01.html",
+		"/C/Users/Administrator/Desktop/细胞生物学/第一章.txt",
+		"/C/Users/Administrator/Desktop/细胞生物学/第二章.txt",
+		"/C/Users/Administrator/Desktop/Vue/01/v-once.html",
+		"/C/Users/Administrator/Desktop/Vue/01/v-html.html",
+		"/C/Users/Administrator/Desktop/Vue/01/v-test.html",
+		"/C/Users/Administrator/Desktop/Vue/01/03-method.html",
+		"/C/Users/Administrator/Desktop/Vue/01/template.html",
+		"/C/Users/Administrator/Desktop/Vue/01/02-list.html",
+		"/C/Users/Administrator/Desktop/Vue/01/01-hello.html",
+		"/C/Users/Administrator/Desktop/vue.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public/js/index.js",
+		"/C/Users/Administrator/Desktop/whdgn_reagent/public/js/reagent.js",
+		"/E/VIP68期课程/node/day9/02.js",
+		"/C/Users/Administrator/Desktop/ncurses-6.1/README",
+		"/E/VIP68期课程/node/day4/01.js",
+		"/E/VIP68期课程/node/day9/01.js",
+		"/E/VIP68期课程/node/day8/mime.json",
+		"/E/VIP68期课程/node/day10/新建文本文档.txt",
+		"/E/VIP68期课程/node/day7/note.txt",
+		"/E/VIP68期课程/node/day8/note.md",
+		"/E/VIP68期课程/node/day9/static.js",
+		"/E/VIP68期课程/node/day9/scorequery/view/list.art",
+		"/E/VIP68期课程/node/day9/scorequery/view/index.art",
+		"/E/VIP68期课程/node/day6/project/package.json",
+		"/E/VIP68期课程/node/day6/project/package-lock.json",
+		"/E/VIP68期课程/node/day6/note.md",
+		"/E/VIP68期课程/node/day5/07.js",
+		"/E/VIP68期课程/node/day5/06.js",
+		"/E/VIP68期课程/node/day6/project/yarn-error.log",
+		"/E/VIP68期课程/node/day4/02.js",
+		"/E/VIP68期课程/node/day4/03.js",
+		"/C/Users/Administrator/Desktop/jzy/caode/html.html",
+		"/C/Users/Administrator/Desktop/运维.html",
+		"/C/Users/Administrator/Desktop/node.txt",
+		"/E/VIP68期课程/node/day1/03.js",
+		"/E/VIP68期课程/node/day1/01.html",
+		"/E/VIP68期课程/node/day1/02.js",
+		"/E/VIP68期课程/node/day1/新建文本文档.txt",
+		"/E/VIP68期课程/node/day1/data/demo.txt",
+		"/C/Users/Administrator/Desktop/passwd",
+		"/C/Users/Administrator/Desktop/ncurses-6.1.tar.gz.sig",
+		"/C/Users/Administrator/Desktop/运维.txt",
+		"/C/Users/Administrator/Desktop/checkjob4host.pl",
+		"/C/Users/Administrator/Desktop/已删除的应用.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getPagingRiskInfo",
+			"Risk",
+			"getPagingRisk",
+			"getPagingRiskInfo",
+			"pagination",
+			"player_fullscreen_Icon_click"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/test3.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11620,
+								12138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "Alphalio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

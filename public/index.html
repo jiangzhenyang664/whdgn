@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>物料信息总览</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/template-web.js"></script>
+    <script type="text/javascript" src="js/dialog.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="js/dateformate.js"></script>
+    <script id="indexTpl" type="text/template">
+        {{each list}}
+              <tr>
+                 <td>{{$index+1}}</td>
+                 <td>{{$value.物料编码}}</td>
+                 <td>
+                    <a href="javascript:">{{$value.物料名称}}</a>
+                 </td>
+                 <td>{{$value.品牌}}</td>
+                 <td>{{$value.规格}}</td>
+                 <td>{{$value.剩余量}}</td>
+                 <td>{{$value.更新日期 | dateFormat: 'yyyy-MM-dd'}}</td>
+                 <td>{{$value.分类}}</td>
+                 <td>
+                    <a href="javascript:;">到货</a>
+                    <a href="javascript:;">使用</a>
+                 </td>
+              </tr>
+        {{/each}}
+    </script>
+</head>
+<body>
+    
+    <div class = "title">       
+    	武汉多功能物料管理系统1.0  
+    </div>
+    <input type="button" value="新物料添加" id="addreagent">
+    <input type="button" value="删除数据库中某个物料全部信息" id="deletereagent">
+    <form>
+           <select id="classify">                  
+                  <option value="DNA">DNA</option>
+                  <option value="RNA">RNA</option>
+                  <option value="烟草">烟草</option>
+                  <option value="10X">10X</option>
+                  <option value="表观">表观</option>
+                  <option value="流式">流式</option>
+                  <option value="公共物料">公共物料</option>
+           </select>
+           <input type="button" value="提交" onclick="selectclassify()">
+    </form>
+    <div class = "list">
+    	<table>
+    		<thead>
+    			<tr>
+    			   <th>序号</th>
+    			   <th>物料编码</th>
+    			   <th id = "reagents">物料名称</th>
+                   <th>品牌</th>
+                   <th>规格</th>
+    			   <th>剩余量</th>
+    			   <th>更新时间</th>
+                   <th>分类</th>
+                   <th>操作</th>
+    			</tr>
+    		</thead>
+            <tbody id="dataList">
+                
+            </tbody>
+
+    	</table>
+    </div>
+    <form class="form" id="editReagenForm">
+        <input type="hidden" name="beforenum"><br>
+        <span>剩余量:&emsp;&emsp;&emsp;&emsp;</span><input type="text" name="beforenum" readonly="readonly"><br>
+        <span>物料编码:&emsp;&emsp;&emsp;</span><input type="text" name="reagentID" readonly="readonly"><br>
+        <span>物料名称:&emsp;&emsp;&emsp;</span><input type="text" name="reagentName" readonly="readonly"><br>
+        <span>项目编号:&emsp;&emsp;&emsp;</span><input type="text" name="itemID"><br>
+        <span>任务单名称:&emsp;&emsp;</span><input type="text" name="taskId"><br>
+        <span>使用量或新增量:</span><input type="double" name="afternum"><br>
+        <input type="button" value="提交">
+    </form>
+    <form class="form" id="addReagenForm">
+        <span>物料编码:&emsp;&emsp;</span><input type="text" name="addreagentID"><br>
+        <span>物料名称:&emsp;&emsp;</span><input type="text" name="addreagentName"><br>
+        <span>品牌:&emsp;&emsp;</span><input type="text" name="brand"><br>
+        <span>规格:&emsp;&emsp;</span><input type="text" name="specs"><br>
+        <span>分类:&emsp;&emsp;</span>
+        <select type="text" id="addclassify" name = "classify">                  
+            <option value="DNA">DNA</option>
+            <option value="RNA">RNA</option>
+            <option value="烟草">烟草</option>
+            <option value="10X">10X</option>
+            <option value="表观">表观</option>
+            <option value="流式">流式</option>
+            <option value="公共物料">公共物料</option>
+        </select></br>
+        <input type="hidden" name="additemID" value="新增" readonly="readonly">
+        <input type="hidden" name="addtaskId" value="新增" readonly="readonly">
+        <span>新增物料量:&emsp;</span><input type="double" name="addnum"><br>
+        <input type="button" value="提交">
+    </form>
+    <form class="form" id="deleteReagenForm">
+        <input type="hidden"><br>
+        物料编码:<input type="text" name="deletereagentID"><br>
+        <input type="button" value="提交">
+    </form>
+</body>
+</html>
