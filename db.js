@@ -10,7 +10,7 @@ exports.base = (sql,data,callback)=>{
         host     : 'localhost',
         user     : 'root',
         password : '123456',
-        database : 'mybook'
+        database : 'reagent'
       });
       
       // 执行连接数据库
